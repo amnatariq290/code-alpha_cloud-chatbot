@@ -23,6 +23,15 @@ This project is part of my **CodeAlpha Internship (Task 3)**. It is a fully resp
 
 ---
 
+## 📢 Screenshots
+
+Home page:![image](https://github.com/user-attachments/assets/98963aca-e4fe-4d98-871f-2e6804344021)
+login page:![image](https://github.com/user-attachments/assets/ba11b2d6-e3b8-4f9b-9a79-bd5871f54440)
+Index page:![image](https://github.com/user-attachments/assets/1e0a3565-c21b-4bf4-a11c-56c34ee3907d)
+
+
+---
+
 ## 📚 Technologies Used
 
 - HTML5  
