@@ -12,7 +12,7 @@ This project is part of my **CodeAlpha Internship (Task 3)**. It is a fully resp
   - Chat
   - Settings
   - Logout
-- 🔊 Voice input support (Web Speech API)
+- 🔊 Voice input support 
 - 📁 File upload option in chat
 - 🏃 Real-time typing indicator
 - 💾 Chat download feature (as `.txt` file)
@@ -37,9 +37,6 @@ Index page:![image](https://github.com/user-attachments/assets/1e0a3565-c21b-4bf
 - HTML5  
 - CSS3 (with responsive design techniques)  
 - JavaScript (DOM manipulation, fetch API)  
-- Web Speech API for voice input  
-- Flask (Backend integration placeholder in template syntax)
-
 ---
 
 ## 🔄 Setup Instructions
